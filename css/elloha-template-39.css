@@ -1,3 +1,19 @@
+/*Variables*/
+:root {
+    --color-link: #D03F66;
+    --color-btn: #AC1E44;
+    --color-btn-txt: #FFFFFF;
+    --color-text: #24030C;
+    --color-text-white: #FFFFFF;
+    --color-title: #390311;
+    --color-bg-1: #FFFFFF;
+    --color-bg-2: #FFFAEC;
+    --color-bg-3: #FEEFC5;
+    --color-red: #FF5050;
+    --font-title: 'Passion One';
+    --font-text: 'Overpass';
+}
+
 /****** FOR ALL ******/
 * {
     box-sizing: border-box;
